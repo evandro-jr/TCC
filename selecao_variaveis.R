@@ -6,9 +6,9 @@ library(tidyverse)
 
 ### loading data
 
-db <- file.choose()
+db1 <- file.choose()
 
-db <- fread(db, dec = ";")
+db1 <- fread(db1, dec = ";")
 
 
 ### select variables
