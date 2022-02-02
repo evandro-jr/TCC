@@ -34,5 +34,5 @@ pior desempenho no ENEM, buscando melhorar as metodologias utilizadas
 pelo colégio, não deixando o resultado final como o principal resultado
 do processo educacional.
 
-*Palavras-chaves*: Avaliação de Larga Escala; Análise de Dados;
-Educação.
+Palavras-chaves: *Avaliação de Larga Escala; Análise de Dados;
+Educação.*
