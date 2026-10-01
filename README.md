@@ -36,3 +36,6 @@ do processo educacional.
 
 Palavras-chaves: *Avaliação de Larga Escala; Análise de Dados;
 Educação.*
+
+
+[![DOI](https://zenodo.org/badge/415656928.svg)](https://doi.org/10.5281/zenodo.22948603)
